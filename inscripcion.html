@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Inscripción a la Retro Arcade Cup 2026: regístrate como jugador y elige tu torneo.">
+  <title>Inscripción | Retro Arcade Cup 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <p class="logo">Retro Arcade Cup 2026</p>
+    <p class="slogan">Insert coin to play</p>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="programa.html">Programa</a></li>
+        <li><a href="inscripcion.html" class="active">Inscripción</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Inscripción</h1>
+      <p class="desc">Crea tu perfil de jugador y elige en qué torneo quieres competir.</p>
+      <p class="info-evento">Sábado 16 de mayo · Sala Pixel, Sevilla</p>
+    </section>
+
+    <section>
+      <form action="#" method="post">
+        <p class="desc">
+          <label for="nombre">Nombre</label><br>
+          <input type="text" id="nombre" name="nombre" required>
+        </p>
+        <p class="desc">
+          <label for="apodo">Apodo de gamer</label><br>
+          <input type="text" id="apodo" name="apodo" required>
+        </p>
+        <p class="desc">
+          <label for="email">Correo electrónico</label><br>
+          <input type="email" id="email" name="email" required>
+        </p>
+        <p class="desc">
+          <label for="juego">Torneo</label><br>
+          <select id="juego" name="juego" required>
+            <option value="">Elige tu juego</option>
+            <option value="mario-kart">Mario Kart</option>
+            <option value="tetris">Tetris</option>
+            <option value="street-fighter">Street Fighter</option>
+          </select>
+        </p>
+        <p class="desc">
+          <input type="checkbox" id="normas" name="normas" required>
+          <label for="normas">Acepto las normas del torneo</label>
+        </p>
+
+        <div class="botones-cta">
+          <button type="submit" class="btn">Unirme al torneo</button>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>Retro Arcade Cup 2026 · Hecho con muchos píxeles</p>
+  </footer>
+</body>
+</html>
