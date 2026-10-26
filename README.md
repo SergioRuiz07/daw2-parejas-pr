@@ -3,7 +3,11 @@
 Bienvenido al repositorio oficial del torneo **Retro Arcade Cup 2026**.
 
 ## Descripción del Proyecto
+<<<<<<< HEAD
 Este proyecto contiene la web oficial de la Retro Arcade Cup 2026 con un diseño retro de neón y zona de registro de participantes.
+=======
+Este proyecto es la plataforma web para consultar el programa completo del torneo de arcade y los partidos de la Retro Arcade Cup 2026.
+>>>>>>> main
 
 ## Tecnologías Utilizadas
 - HTML5
