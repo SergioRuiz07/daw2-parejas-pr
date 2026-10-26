@@ -1,5 +1,3 @@
-# daw2-parejas-pr
-
 # Retro Arcade Cup 2026
 
 Bienvenido al repositorio oficial del torneo **Retro Arcade Cup 2026**.
