@@ -1,9 +1,9 @@
-# Retro Arcade Cup 2026 - Edición Oficial de Verano
+# Retro Arcade Cup 2026
 
 Bienvenido al repositorio oficial del torneo **Retro Arcade Cup 2026**.
 
 ## Descripción del Proyecto
-Este proyecto contiene el sitio web oficial del evento de retrogaming más esperado del año.
+Este proyecto contiene la web oficial de la Retro Arcade Cup 2026 con un diseño retro de neón y zona de registro de participantes.
 
 ## Tecnologías Utilizadas
 - HTML5
