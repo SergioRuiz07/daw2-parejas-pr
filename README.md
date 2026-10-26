@@ -1,4 +1,4 @@
-# Retro Arcade Cup 2026
+# Retro Arcade Cup 2026 - Edición Oficial de Verano
 
 Bienvenido al repositorio oficial del torneo **Retro Arcade Cup 2026**.
 
