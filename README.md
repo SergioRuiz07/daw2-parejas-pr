@@ -1,1 +1,1 @@
-# daw2-parejas-pr
+# daw2-parejas-pr Sergio y Rubén
